@@ -6,3 +6,4 @@ Learning Goals:
 1. Master Git version control and GitHub collaboration.
 2. Build strong foundational skills in programming.
 3. Learn responsive web design with HTML and CSS.
+4. Understand command line tools and cloud repositories.
